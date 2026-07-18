@@ -11,6 +11,8 @@ description: (在安装完rime后)帮助用户安装rime-ice(雾凇拼音方案)
 
 确认bash可用: 后面会需要用到bash. 如果是Windows，确保你测试过git bash的运行方式（如果不行则向用户说明，需要他自己去安装git）
 
+注意: 如果是windows，优先使用git自带的bash
+
 
 ## 阅读最新安装流程
 

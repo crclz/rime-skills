@@ -11,7 +11,7 @@
 
 ## 步骤
 
-首先，打开opencode/claudecode等类似工具(下文称为coding agent)
+首先，在本仓库打开opencode/claudecode等类似工具(下文称为coding agent)
 
 然后，可以按照以下流程运行如下几个skill `skill位于本仓库的 .agents/skills`
 

@@ -15,6 +15,17 @@
 
 然后，可以按照以下流程运行如下几个skill `skill位于本仓库的 .agents/skills`
 
-1. 在本仓库内打开coding agent
-2. 告诉coding agent: `使用rime-install skill帮我安装rime输入法`
+
+### skill: rime-install
+
+告诉coding agent
+
+> 使用rime-install skill帮我安装rime输入法
+
+
+### skill: rime-ice-install
+
+告诉coding agent
+
+> 我已经安装完成了rime输入法。请使用rime-ice-install 帮我安装rime输入法的rime-ice方案
 

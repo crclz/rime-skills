@@ -3,7 +3,7 @@ name: rime-configure
 description: (在安装完rime后)帮助用户安装rime-ice(雾凇拼音方案)的向导
 ---
 
-遵循准则skill: rime-guide-style
+遵循准则skill: rime-guide-standard
 
 
 ## 流程

@@ -29,3 +29,9 @@
 
 > 我已经安装完成了rime输入法。请使用rime-ice-install 帮我安装rime输入法的rime-ice方案
 
+
+### skill: rime-configure
+
+告诉coding agent
+
+> 我已经完成了 rime-install 和 rime-ice-install，帮我使用rime-configure

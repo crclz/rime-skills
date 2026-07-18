@@ -2,6 +2,7 @@
 *.zip
 *.pkg
 *.gz
+/plum
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

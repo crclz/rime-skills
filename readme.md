@@ -18,6 +18,8 @@
 
 ### skill: rime-install
 
+（安装rime输入法引擎本体）
+
 告诉coding agent
 
 > 使用rime-install skill帮我安装rime输入法
@@ -25,12 +27,16 @@
 
 ### skill: rime-ice-install
 
+（安装rime-ice方案）
+
 告诉coding agent
 
 > 我已经安装完成了rime输入法。请使用rime-ice-install 帮我安装rime输入法的rime-ice方案
 
 
 ### skill: rime-configure
+
+(进行一些个性化的配置)
 
 告诉coding agent
 
